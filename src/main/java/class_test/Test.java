@@ -5,6 +5,8 @@ public class Test {
         System.out.println("test1 ");
         Calcolatrice calcolatrice=new Calcolatrice();
         System.out.println(calcolatrice.somma(5,6));
+        System.out.println(calcolatrice.differenza(
+                5,6));
     }
 
 }
